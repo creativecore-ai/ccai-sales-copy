@@ -3,7 +3,7 @@
 > Direct-response sales copy that diagnoses the audience first, then picks the right framework. Not template-fill.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-sales-copy`
 **Status:** v0.1 · works with Claude Code
@@ -50,7 +50,7 @@ No API keys. No scraping. No "swipe file" downloads. You bring the diagnosis; th
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-sales-copy ~/.claude/skills/ccai-sales-copy
+git clone https://github.com/creativecore-ai/ccai-sales-copy ~/.claude/skills/ccai-sales-copy
 ```
 
 Restart Claude Code or run `/doctor` to confirm.
@@ -129,14 +129,14 @@ Yes, but the skill refuses to write fake urgency. "Doors close Friday" works *if
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-sales-copy ~/.claude/skills/ccai-sales-copy
+git clone https://github.com/creativecore-ai/ccai-sales-copy ~/.claude/skills/ccai-sales-copy
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 The full pack is taught in [The AI Operator's Playbook](https://skool.com/creative-core-ai), our free Skool course for non-technical business owners.
